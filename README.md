@@ -5,15 +5,11 @@
 
 <br />
 
-Hello, I'm  Legendary, a 16y/o full stack developer from India <img src="https://cdn.discordapp.com/emojis/649216868682432522.gif?v=1" width="22px"><img src="https://cdn.discordapp.com/emojis/649216868074127360.gif?v=1" width="22px">
+Hello, I'm  Legendary, a 18y/o full stack developer from India <img src="https://cdn.discordapp.com/emojis/649216868682432522.gif?v=1" width="22px"><img src="https://cdn.discordapp.com/emojis/649216868074127360.gif?v=1" width="22px">
 <br>
+I recently joined Punjab Engineering College and am pursuing a B.Tech Computer Science Degree
 I mostly like to work on server side projects!
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
-
-- 👨 I'm currently working on making more of my projects open source;
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,6 +24,8 @@ I mostly like to work on server side projects!
 🥶 **Todo List:**
 <!-- TODO-IST:START -->        
 😪   Should sleep more then 5 hours daily
+Work more on open source projects 
+Actually complete the projects I've made private Repos off
 <!-- TODO-IST:END -->
 
 
