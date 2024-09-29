@@ -23,8 +23,8 @@ I mostly like to work on server side projects!
 
 🥶 **Todo List:**
 <!-- TODO-IST:START -->        
-😪   Should sleep more then 5 hours daily
-Work more on open source projects 
+😪   Should sleep more then 5 hours daily<br>
+Work more on open source projects <br>
 Actually complete the projects I've made private Repos off
 <!-- TODO-IST:END -->
 
