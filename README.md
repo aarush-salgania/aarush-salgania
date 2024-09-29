@@ -7,7 +7,7 @@
 
 Hello, I'm  Legendary, a 18y/o full stack developer from India <img src="https://cdn.discordapp.com/emojis/649216868682432522.gif?v=1" width="22px"><img src="https://cdn.discordapp.com/emojis/649216868074127360.gif?v=1" width="22px">
 <br>
-I recently joined Punjab Engineering College and am pursuing a B.Tech Computer Science Degree
+I recently joined Punjab Engineering College and am pursuing a B.Tech Computer Science Degree<br>
 I mostly like to work on server side projects!
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 **Languages and Tools:**  
